@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "luniremind",
+      "bundleID": "nguyentri2010.LuniRemind",
+      "name": "LuniRemind",
+      "tagline": "Nhắc việc theo lịch dương và âm lịch, giao diện tiếng Việt.",
+      "appStoreID": "6829097719",
+      "iconURL": null
+    }
+  ]
+}
