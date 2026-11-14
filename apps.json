@@ -5,7 +5,10 @@
       "id": "luniremind",
       "bundleID": "nguyentri2010.LuniRemind",
       "name": "LuniRemind",
-      "tagline": "Nhắc việc theo lịch dương và âm lịch, giao diện tiếng Việt.",
+      "tagline": {
+        "vi": "Nhắc việc theo lịch dương và âm lịch.",
+        "en": "Reminders with solar and lunar calendar support."
+      },
       "appStoreID": "6829097719",
       "iconURL": null
     }
